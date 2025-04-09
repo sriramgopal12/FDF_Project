@@ -5,6 +5,7 @@ import Footer from "../Components/Footer";
 import "../styles/LandingPage.css"; // Import your CSS file for styling
 
 
+
 const LandingPage = () => {
   return (
     <div>
