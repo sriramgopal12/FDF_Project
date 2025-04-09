@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "../components/Navbar";
-import Services from "../components/Services";
+import Navbar from "../Components/Navbar";
+import Services from "../Components/Services";
 import Footer from "../Components/Footer";
-import "../styles/LandingPage.css"; // Import your CSS file for styling
+import "../styles/LandingPage.css"; 
 
 
 
